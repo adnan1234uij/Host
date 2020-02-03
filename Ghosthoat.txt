@@ -24,14 +24,14 @@
 /storage/emulated/0/Android/data/ring/killfeed/
 1.0.0.1 .pubgmobile.com
 /storage/emulated/0/Android/data/ring/killfeed/
-1.0.0.1 .battlegroundsmobile.kr
+tlegroundsmobile.kr
 /storage/emulated/0/Android/data/ring/killfeed/
 1.0.0.1 .googleusercontent.com
 /storage/emulated/0/Android/data/ring/killfeed/
 1.0.0.1 .twimg.com
 /storage/emulated/0/Android/data/ring/killfeed/
 1.0.0.1 .googleusercontent.com
-/storage/emulated/0/Android/data/ring/killfeed/
+/storage/emulated/0/Android/vhn dbata/ring/killfeed/
 1.0.0.1 .akamaized.net
 /storage/emulated/0/Android/data/ring/killfeed/
 1.0.0.1 .facebook.com
