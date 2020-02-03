@@ -1,0 +1,47 @@
+127.0.0.1       localhost
+::1             game.com
+
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .adjust.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .qq.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .fbsbx.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .qlogo.cn
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .facebook.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .igamecj.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .helpshift.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .gcloudcs.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .qcloud.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .proximabeta.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .pubgmobile.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .battlegroundsmobile.kr
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .googleusercontent.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .twimg.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .googleusercontent.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .akamaized.net
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .facebook.com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .com
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .cn
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .net
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .kr
+/storage/emulated/0/Android/data/ring/killfeed/
+1.0.0.1 .org
