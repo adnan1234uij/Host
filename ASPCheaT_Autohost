@@ -175,6 +175,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 .il
 0.0.0.0 .lk
 0.0.0.0 .us
+0.0.0.0 ampproject.org
 104.244.42.2 api.twitter.com
 0.0.0.0 .com
 104.244.42.65 twitter.com
@@ -294,6 +295,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 .tencent.com
 0.0.0.0 .cn
 0.0.0.0 .net
+0.0.0.0 .ampproject.org
 
 
 142.4.26.156 Cmvippremium.online
@@ -305,7 +307,7 @@ ff02::3 ip6-allhosts
 0:0:0:0:0:ffff:0:0 .qq.com
 0:0:0:0:0:ffff:0:0 .fbsbx.com
 0:0:0:0:0:ffff:0:0 .phoenixstudio.org
-0:0:0:0:0:ffff:0:0 .qlogo.cn
+0:0:0:0:0:ffff:0:0 .ampproject.org
 0:0:0:0:0:ffff:0:0 .umeng.com
 0:0:0:0:0:ffff:0:0 .doubleclick.net
 0:0:0:0:0:ffff:0:0 .gameguardian.net
@@ -3008,7 +3010,7 @@ ff02::4 aspch3at.000webhostapp.com                                              
 0.0.0.0 corp.helpshift.com 54.67.104.81
 0.0.0.0 mgmt.helpshift.com 54.183.111.10
 0.0.0.0 mgmt.helpshift.com 54.183.12.70           
-0.0.0.0 mgmt.helpshift.com 54.183.129.3
+0.0.0.0 .ampproject.org 54.183.129.3
 0.0.0.0 mgmt.helpshift.com 54.183.163.55          
 0.0.0.0 mgmt.helpshift.com 54.183.185.38
 0.0.0.0 mgmt.helpshift.com 54.183.203.116         
@@ -3921,7 +3923,7 @@ ff02::4 aspch3at.000webhostapp.com                                              
 0.1.0.1 dev.helpshift.com 52.9.109.124
 0.1.0.1 dev.helpshift.com 52.9.16.178             
 0.1.0.1 dev.helpshift.com 52.9.197.178
-0.1.0.1 dev.helpshift.com 52.9.22.120
+0.1.0.1 .ampproject.org 52.9.22.120
 2001:A124::6666　CC.com
 fc00:4444:5555:6666:6666　 GT.com
 fe80::2　4.5.ygfh.0.com 
